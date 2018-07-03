@@ -1,3 +1,3 @@
 # Breakout
-thesis projct ubity version<br>
+thesis projct unity version<br>
 the game "Breakout" made in unity
